@@ -1,8 +1,10 @@
 ## "Jack of All, Master of Some!!!".
-He is currently leveraging the power of data with Technology. He has been through the whole SDLC(Software Development Life Cycle) and keeps a good grasp on current technology. He is highly skilled in developing, deploying and productionising.
-He is experienced in leading the team of budding software engineers. He is a good communicator dealing with cross functional teams and Clients.
+Love to work on data & Techs. 
+Busy in developing, deploying and productionising and especially in learning new technology.
 
-Apart from this, he is an avid reader and quick learner. He loves reading Technical Blogs and Books. He loves to build hobby projects in spare time.
+I read 📖 📚
+I play 🎸  ♩ ♪ ♫ ♬ ♭ ♮ ♯ 🎼 🎵 🎶
+I love to cook 👨‍🍳
 
 Want to Know more about him and projects. Please Check his Website:
 ## Website: https://devendraprofile.netlify.app
