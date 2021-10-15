@@ -1,4 +1,4 @@
-## Devendra Kumar Singh is an Enthusiastic Technophile, "Jack of All, Master of Some!!!".
+## "Jack of All, Master of Some!!!".
 He is currently leveraging the power of data with Technology. He has been through the whole SDLC(Software Development Life Cycle) and keeps a good grasp on current technology. He is highly skilled in developing, deploying and productionising.
 He is experienced in leading the team of budding software engineers. He is a good communicator dealing with cross functional teams and Clients.
 
