@@ -3,7 +3,9 @@ Love to work on data & Techs.
 Busy in developing, deploying and productionising and especially in learning new technology.
 
 I read 📖 📚
+
 I play 🎸  ♩ ♪ ♫ ♬ ♭ ♮ ♯ 🎼 🎵 🎶
+
 I love to cook 👨‍🍳
 
 Want to Know more about him and projects. Please Check his Website:
