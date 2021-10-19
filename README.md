@@ -24,6 +24,6 @@ Want to see his how he answers on Social Platform:
 Want to shoot him message:
 Gmail Account: devendra631995@gmail.com
 
-![Devendra's Github Stats] (https://github-readme-stats.vercel.app/api?username=devendra631997)
+[![Devendra's Github Stats] (https://github-readme-stats.vercel.app/api?username=devendra631997)](https://github.com/devendra631997/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra631997&langs_count=12&layout=compact)](https://github.com/devendra631997/github-readme-stats)
