@@ -22,6 +22,8 @@ Want to sknow about my Social Platform:
 
 ### Gmail Account: devendra631995@gmail.com
 
+## AWS Certified Developer - Associate (DVA-C01): shorturl.at/ioq19
+
 ![Devendra's Github Stats](https://github-readme-stats.vercel.app/api?username=devendra631997)
 
 
