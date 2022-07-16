@@ -17,12 +17,12 @@ Want to know Container-Image contributions. Check out my Docker Account:
 Want to sknow about my Social Platform:
 ## JSFiddle: https://jsfiddle.net/user/Devu_The_Explorer/fiddles/
 ## Stackoverflow: https://stackoverflow.com/users/13420779/devendra-kumar-singh
+### AWS Certified Developer - Associate (DVA-C01): https://shorturl.at/ioq19
 
 ### LinkedIN: https://www.linkedin.com/in/devendra-kumar-singh-06march95/
 
 ### Gmail Account: devendra631995@gmail.com
 
-#### AWS Certified Developer - Associate (DVA-C01): shorturl.at/ioq19
 
 ![Devendra's Github Stats](https://github-readme-stats.vercel.app/api?username=devendra631997)
 
