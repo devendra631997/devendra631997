@@ -13,11 +13,11 @@ Want to know Container-Image contributions. Check out my Docker Account:
 ## Docker Link: [https://hub.docker.com/u/devu01](https://hub.docker.com/u/devu01)
 
 Want to sknow about my Social Platform:
-## JSFiddle: [https://jsfiddle.net/user/Devu_The_Explorer/fiddles/](https://jsfiddle.net/user/Devu_The_Explorer/fiddles/)
-## Stackoverflow: [https://stackoverflow.com/users/13420779/devendra-kumar-singh](https://stackoverflow.com/users/13420779/devendra-kumar-singh)
-### AWS Certified Developer - Associate (DVA-C01): [https://shorturl.at/ioq19](https://shorturl.at/ioq19)
-
+### JSFiddle: [https://jsfiddle.net/user/Devu_The_Explorer/fiddles/](https://jsfiddle.net/user/Devu_The_Explorer/fiddles/)
+### Stackoverflow: [https://stackoverflow.com/users/13420779/devendra-kumar-singh](https://stackoverflow.com/users/13420779/devendra-kumar-singh)
 ### LinkedIN: [https://www.linkedin.com/in/devendra-kumar-singh-06march95/](https://www.linkedin.com/in/devendra-kumar-singh-06march95/)
+## Certificate
+### AWS Certified Developer - Associate (DVA-C01): [https://shorturl.at/ioq19](https://shorturl.at/ioq19)
 
 ### Gmail Account: devendra631995@gmail.com
 
