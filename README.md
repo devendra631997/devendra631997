@@ -4,22 +4,20 @@ Busy in developing, deploying and productionising and especially in learning new
 
 I read 📖 📚
 
-I play 🎸  ♩ ♪ ♫ ♬ ♭ ♮ ♯ 🎼 🎵 🎶
-
 I love to cook 👨‍🍳
 
 Want to Know more about me and projects. Please Check my Website:
-## Website: https://devendraprofile.netlify.app
+## Website: [https://devendraprofile.netlify.app](http://devendraksingh.netlify.app)
 
 Want to know Container-Image contributions. Check out my Docker Account:
-## Docker Link: https://hub.docker.com/u/devu01
+## Docker Link: [https://hub.docker.com/u/devu01](https://hub.docker.com/u/devu01)
 
 Want to sknow about my Social Platform:
-## JSFiddle: https://jsfiddle.net/user/Devu_The_Explorer/fiddles/
-## Stackoverflow: https://stackoverflow.com/users/13420779/devendra-kumar-singh
-### AWS Certified Developer - Associate (DVA-C01): https://shorturl.at/ioq19
+## JSFiddle: [https://jsfiddle.net/user/Devu_The_Explorer/fiddles/](https://jsfiddle.net/user/Devu_The_Explorer/fiddles/)
+## Stackoverflow: [https://stackoverflow.com/users/13420779/devendra-kumar-singh](https://stackoverflow.com/users/13420779/devendra-kumar-singh)
+### AWS Certified Developer - Associate (DVA-C01): [https://shorturl.at/ioq19](https://shorturl.at/ioq19)
 
-### LinkedIN: https://www.linkedin.com/in/devendra-kumar-singh-06march95/
+### LinkedIN: [https://www.linkedin.com/in/devendra-kumar-singh-06march95/](https://www.linkedin.com/in/devendra-kumar-singh-06march95/)
 
 ### Gmail Account: devendra631995@gmail.com
 
