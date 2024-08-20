@@ -17,7 +17,7 @@ Want to sknow about my Social Platform:
 ### Stackoverflow: [https://stackoverflow.com/users/13420779/devendra-kumar-singh](https://stackoverflow.com/users/13420779/devendra-kumar-singh)
 ### LinkedIN: [https://www.linkedin.com/in/devendra-kumar-singh-06march95/](https://www.linkedin.com/in/devendra-kumar-singh-06march95/)
 ## Certificate
-### AWS Certified Developer: [Associate (DVA-C01)](https://shorturl.at/ioq19)
+### AWS Certified Developer: [Associate (DVA-C01)](https://drive.google.com/file/d/1HANKfiWauCO5azkRFloU5XuNdc0lOx0i/view)
 
 ### Gmail Account: devendra631995@gmail.com
 
