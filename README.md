@@ -1,6 +1,9 @@
-## "Jack of All, Master of Some!!!".
-Love to work on data & Techs. 
-Busy in developing, deploying and productionising and especially in learning new technology.
+## "Senior Data Engineer | ML & IOT Enthusiast".
+With a passion for harnessing the power of data and technology, I bring extensive experience across the entire Software Development Life Cycle (SDLC). I excel in developing, deploying, and productionizing data solutions, and am adept at leading teams of software engineers to achieve strategic goals.
+
+My technical proficiency spans a wide range of tools and technologies, and I thrive in cross-functional team environments. Known for my strong communication skills, I effectively collaborate with both technical teams and clients to deliver impactful results.
+
+In addition to my professional work, I am an avid reader and a quick learner, with a keen interest in technical blogs and books. I enjoy building hobby projects and continuously exploring new technologies.
 
 I read 📖 📚
 
